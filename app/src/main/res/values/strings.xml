@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokenPo</string>
+    <string name="escolha_uma_op_o_abaixo">Escolha uma opção abaixo</string>
+    <string name="escolha_do_app">Escolha do App</string>
+    <string name="voc_selecionou">Você selecionou:</string>
+    <string name="notselected">...</string>
+</resources>
